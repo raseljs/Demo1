@@ -25,6 +25,14 @@ This is a **Next.js frontend + API-ready conversion**. The original Laravel proj
 
 Recommended next stack: Next.js Route Handlers + PostgreSQL/MySQL + Prisma/Drizzle + Auth.js/Clerk + secure server-side payment/courier adapters.
 
+## Performance Audit
+
+| Performance | Accessibility | Best Practices | SEO |
+| :---------: | :-----------: | :------------: | :-: |
+|     98      |      94       |       92       | 100 |
+
+![Lighthouse Audit](./screenshots/lighthouse-score.png)
+
 ## Project Screenshot
 
 ![E-Commerce Homepage](./screenshots/home-page.png)
